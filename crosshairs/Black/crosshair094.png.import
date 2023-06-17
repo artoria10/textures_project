@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dbl8nuqmtaalp"
-path="res://.godot/imported/crosshair094.png-a83783fe131e9f736beda6b848829609.ctex"
+path="res://.godot/imported/crosshair094.png-69479c97bf3aeb9519f197fb8b6eb580.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://materials/textures/crosshairs/Black/crosshair094.png"
-dest_files=["res://.godot/imported/crosshair094.png-a83783fe131e9f736beda6b848829609.ctex"]
+dest_files=["res://.godot/imported/crosshair094.png-69479c97bf3aeb9519f197fb8b6eb580.ctex"]
 
 [params]
 

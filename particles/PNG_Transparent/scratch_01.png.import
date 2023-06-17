@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dins2oduud4dg"
-path="res://.godot/imported/scratch_01.png-8cfb3a792217a106fc861cea3fc61222.ctex"
+path="res://.godot/imported/scratch_01.png-94f83b1d8f74e790b70d5d7b1c566998.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://materials/textures/particles/PNG (Transparent)/scratch_01.png"
-dest_files=["res://.godot/imported/scratch_01.png-8cfb3a792217a106fc861cea3fc61222.ctex"]
+source_file="res://materials/textures/particles/PNG_Transparent/scratch_01.png"
+dest_files=["res://.godot/imported/scratch_01.png-94f83b1d8f74e790b70d5d7b1c566998.ctex"]
 
 [params]
 

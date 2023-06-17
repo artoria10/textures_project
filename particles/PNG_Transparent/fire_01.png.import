@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dvlhw44qyhyg4"
-path.s3tc="res://.godot/imported/fire_01.png-1b0dea448f415d5da79fe6dfcb3102b5.s3tc.ctex"
+path.s3tc="res://.godot/imported/fire_01.png-086f5e3f2fe9f21d58c7a6536516a254.s3tc.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc"],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://materials/textures/particles/PNG (Transparent)/fire_01.png"
-dest_files=["res://.godot/imported/fire_01.png-1b0dea448f415d5da79fe6dfcb3102b5.s3tc.ctex"]
+source_file="res://materials/textures/particles/PNG_Transparent/fire_01.png"
+dest_files=["res://.godot/imported/fire_01.png-086f5e3f2fe9f21d58c7a6536516a254.s3tc.ctex"]
 
 [params]
 

@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bhpc6y75oiwjo"
-path.s3tc="res://.godot/imported/scorch_01.png-7302c8227b1a1163ecfa4f2a595b391d.s3tc.ctex"
+path.s3tc="res://.godot/imported/scorch_01.png-84d25d58b16b1e9cbde53718e61ad6e3.s3tc.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc"],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://materials/textures/particles/PNG (Transparent)/scorch_01.png"
-dest_files=["res://.godot/imported/scorch_01.png-7302c8227b1a1163ecfa4f2a595b391d.s3tc.ctex"]
+source_file="res://materials/textures/particles/PNG_Transparent/scorch_01.png"
+dest_files=["res://.godot/imported/scorch_01.png-84d25d58b16b1e9cbde53718e61ad6e3.s3tc.ctex"]
 
 [params]
 

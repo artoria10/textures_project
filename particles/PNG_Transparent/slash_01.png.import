@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d1nrlyugqyp46"
-path="res://.godot/imported/slash_01.png-c5ebaa7c2eaf779881a213576a06e932.ctex"
+path="res://.godot/imported/slash_01.png-20703d24ff01eb153c8636c7bb1fa972.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://materials/textures/particles/PNG (Transparent)/slash_01.png"
-dest_files=["res://.godot/imported/slash_01.png-c5ebaa7c2eaf779881a213576a06e932.ctex"]
+source_file="res://materials/textures/particles/PNG_Transparent/slash_01.png"
+dest_files=["res://.godot/imported/slash_01.png-20703d24ff01eb153c8636c7bb1fa972.ctex"]
 
 [params]
 
